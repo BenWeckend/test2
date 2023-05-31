@@ -1,0 +1,16 @@
+\\zfs1.hrz.tu-freiberg.de\bw19jivu\home\fak1pool\Desktop\aufg4\bin\Debug\net5.0\aufg4.exe
+\\zfs1.hrz.tu-freiberg.de\bw19jivu\home\fak1pool\Desktop\aufg4\bin\Debug\net5.0\aufg4.deps.json
+\\zfs1.hrz.tu-freiberg.de\bw19jivu\home\fak1pool\Desktop\aufg4\bin\Debug\net5.0\aufg4.runtimeconfig.json
+\\zfs1.hrz.tu-freiberg.de\bw19jivu\home\fak1pool\Desktop\aufg4\bin\Debug\net5.0\aufg4.runtimeconfig.dev.json
+\\zfs1.hrz.tu-freiberg.de\bw19jivu\home\fak1pool\Desktop\aufg4\bin\Debug\net5.0\aufg4.dll
+\\zfs1.hrz.tu-freiberg.de\bw19jivu\home\fak1pool\Desktop\aufg4\bin\Debug\net5.0\ref\aufg4.dll
+\\zfs1.hrz.tu-freiberg.de\bw19jivu\home\fak1pool\Desktop\aufg4\bin\Debug\net5.0\aufg4.pdb
+\\zfs1.hrz.tu-freiberg.de\bw19jivu\home\fak1pool\Desktop\aufg4\obj\Debug\net5.0\aufg4.csproj.AssemblyReference.cache
+\\zfs1.hrz.tu-freiberg.de\bw19jivu\home\fak1pool\Desktop\aufg4\obj\Debug\net5.0\aufg4.GeneratedMSBuildEditorConfig.editorconfig
+\\zfs1.hrz.tu-freiberg.de\bw19jivu\home\fak1pool\Desktop\aufg4\obj\Debug\net5.0\aufg4.AssemblyInfoInputs.cache
+\\zfs1.hrz.tu-freiberg.de\bw19jivu\home\fak1pool\Desktop\aufg4\obj\Debug\net5.0\aufg4.AssemblyInfo.cs
+\\zfs1.hrz.tu-freiberg.de\bw19jivu\home\fak1pool\Desktop\aufg4\obj\Debug\net5.0\aufg4.csproj.CoreCompileInputs.cache
+\\zfs1.hrz.tu-freiberg.de\bw19jivu\home\fak1pool\Desktop\aufg4\obj\Debug\net5.0\aufg4.dll
+\\zfs1.hrz.tu-freiberg.de\bw19jivu\home\fak1pool\Desktop\aufg4\obj\Debug\net5.0\ref\aufg4.dll
+\\zfs1.hrz.tu-freiberg.de\bw19jivu\home\fak1pool\Desktop\aufg4\obj\Debug\net5.0\aufg4.pdb
+\\zfs1.hrz.tu-freiberg.de\bw19jivu\home\fak1pool\Desktop\aufg4\obj\Debug\net5.0\aufg4.genruntimeconfig.cache
